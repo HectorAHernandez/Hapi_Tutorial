@@ -1,6 +1,6 @@
 const fetch = require("node-fetch");
 const url =
-"http://localhost:3000/Sugar/productdetail------";
+"http://localhost:3000/Sugar/productdetail";
 //"http://localhost:3000/ORD-2541/product";
 //"http://localhost:3000/Julio/order";
 //"http://localhost:3000/customer";
